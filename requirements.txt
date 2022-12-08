@@ -2,7 +2,7 @@ asgiref==3.2.10
 astroid @ file:///opt/concourse/worker/volumes/live/21fd14a9-2a7e-484b-7394-5a9912cdcf80/volume/astroid_1592498459180/work
 beautifulsoup4==4.9.1
 brotlipy==0.7.0
-certifi==2020.6.20
+certifi==2022.12.7
 cffi==1.14.0
 chardet==3.0.4
 cryptography==2.9.2
